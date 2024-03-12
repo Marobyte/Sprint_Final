@@ -85,4 +85,4 @@ document.addEventListener('DOMContentLoaded', function() {
        alertify.confirm("Envio de Mensaje", "¿Desea Enviar el Mensaje?", function(){ alertify.success("Mensaje Enviado con Exito...!") }
               , function(){ alertify.error("Cancelado")});
 
-  }
+}
